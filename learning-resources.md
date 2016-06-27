@@ -33,6 +33,9 @@
 
 ##Paid##
 
+**Ember**
+https://www.ludu.co/course/ember
+
 
 ###Front End ###
 **HTML & CSS** Treehouse - How to Make a Website
