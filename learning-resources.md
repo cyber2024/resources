@@ -1,7 +1,7 @@
 #Learning Resources Links#
 ##Add your faves! :)##
 
-##Free##
+##Free##--------------------##Free##-----------------------##Free##
 
 ###Front End###
 
@@ -15,7 +15,7 @@
 
 **HTML** Codecademy
 
-
+<a href="http://buildwithreact.com/tutorial/">**React**</a> 
 ###Back End###
 
 
@@ -31,7 +31,7 @@
 
 
 
-##Paid##
+##Paid##---------------------------##Paid##-----------------------------------##Paid##
 
 **Ember**
 https://www.ludu.co/course/ember
