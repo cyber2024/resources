@@ -40,9 +40,9 @@
 
 <ul><h2>Back End</h2>
   <li><div>
-    <ul><h3><!--add group title--></h3>
-    <p><!--add comment--></p>
-      <li><a href="#"><!--add link-->1</a></li>
+    <ul><h3>add group title</h3>
+    <p>add comment</p>
+      <li><a href="#">add link</a></li>
     </ul>
   </div></li>
 </ul>
