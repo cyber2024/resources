@@ -1,58 +1,105 @@
+
 #Learning Resources Links#
 ##Add your faves! :)##
+<br>
+<h1>FREE</h1>
 
-##Free##--------------------##Free##-----------------------##Free##
-
-###Front End###
-
-
-
-**Flexbox** What The FlexBox? - Wes Bos video tutorial
-
-
-**CSS** Codecademy
-
-
-**HTML** Codecademy
-
-
-<ul><h2>**React**</h2>
-<li><a href="https://facebook.github.io/react/docs/getting-started.html">Official Tutorial</a></li>
-<li><a href="http://buildwithreact.com/tutorial/">Build With React</a></li>
-<li><a href="https://egghead.io/courses/react-fundamentals>React Fundamentals">Fundamentals</a></li>
-<li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">Clone Yelp</a></li>
+<ul><h2Front Endh2>
+  <li><div>
+    <ul><h3>**Flexbox**</h3>
+    <p> What The FlexBox?</p>
+    <li><a href="#">Wes Bos video tutorial</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    </ul>
+  </div></li>
+  <li><div>
+    <ul><h3>CSS</h3>
+    <p> What The FlexBox? - Wes Bos video tutorial</p>
+    <li><a href="http://www.Codeacademy.com">Code Academy</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    </ul>
+  </div></li>
+  <li><div>
+    <ul><h3>HTML</h3>
+    <li><a href="http://www.Codeacademy.com">Code Academy</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    </ul>
+  </div></li>
+  <li><div>
+    <ul><h3>React</h3>
+    <li><a href="https://facebook.github.io/react/docs/getting-started.html">Official Tutorial</a></li>
+    <li><a href="http://buildwithreact.com/tutorial/">Build With React</a></li>
+    <li><a href="https://egghead.io/courses/react-fundamentals>React Fundamentals">Fundamentals</a></li>
+    <li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">Clone Yelp</a></li>
+    </ul>
+  </div></li>
 </ul>
 
-###Back End###
+<ul><h2>Back End</h2>
+  <li><div>
+    <ul><h3><!--add group title--></h3>
+    <p><!--add comment--></p>
+    <li><a href="#"><!--add link-->1</a></li>
+    </ul>
+  </div></li>
+</ul>
 
+<ul><h2>Design</h2>
+  <li><div>
+    <ul><h3><!--add group title--></h3>
+    <p><!--add comment--></p>
+    <li><a href="#"><!--add link-->1</a></li>
+    </ul>
+  </div></li>
+</ul>
 
+<ul><h2>Game Development</h2>
+  <li><div>
+    <ul><h3><!--add group title--></h3>
+    <p><!--add comment--></p>
+    <li><a href="#"><!--add link-->1</a></li>
+    </ul>
+  </div></li>
+</ul>
 
-
-
-###Design###
-
-
-
-
-###Game Development###
-
-
-
-##Paid##---------------------------##Paid##-----------------------------------##Paid##
-
-**Ember**
-https://www.ludu.co/course/ember
-
-
-###Front End ###
-**HTML & CSS** Treehouse - How to Make a Website
-
-###Back End###
-
-
-
-###Design###
-
-
-
-###Game Development###
+<br>
+<h1>Paid</h1>
+<ul><h2>Front End</h2>
+  <li><div>
+    <ul><h3>Ember</h3>
+      <li><a href="https://www.ludu.co/course/ember">Ludu</a></li>
+    </ul>
+  </div></li>
+  <li><div>
+    <ul><h3>HTML & CSS</h3>
+      <li><a href="#">Treehouse: how to make a website</a></li>
+    </ul>
+  </div></li>
+</ul>
+<ul><h2>Back End</h2>
+  <li><div>
+    <ul><h3>Add Group</h3>
+      <li><a href="#">Add Links</a></li>
+    </ul>
+  </div></li>
+</ul>
+<ul><h2>Design</h2>
+  <li><div>
+    <ul><h3>Add Group</h3>
+      <li><a href="#">Add Links</a></li>
+    </ul>
+  </div></li>
+</ul>
+<ul><h2>Game Development</h2>
+  <li><div>
+    <ul><h3>Android</h3>
+      <li><a href="http://www.kilobolt.com/unit-1-beginning-java.html">Kilobolt: Beginning Java</a></li>
+      <li><a href="http://www.kilobolt.com/unit-2-creating-a-game-i.html">Kilobolt: Creating a game 1</a></li>
+      <li><a href="http://www.kilobolt.com/unit-3-creating-a-game-ii.html">Kilobolt: Creating a game 2</a></li>
+      <li><a href="http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html">Kilobolt: Zombie Bird Tutorial</a></li>
+    </ul>
+  </div></li>
+</ul>
