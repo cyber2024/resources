@@ -4,7 +4,7 @@
 <br>
 <h1>FREE</h1>
 
-<ul><h2Front Endh2>
+<ul><h2>Front End</h2>
   <li><div>
     <ul><h3>**Flexbox**</h3>
       <p> What The FlexBox?</p>
