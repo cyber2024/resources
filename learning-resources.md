@@ -15,7 +15,7 @@
   </div></li>
   <li><div>
     <ul><h3>CSS</h3>
-      <p> What The FlexBox? - Wes Bos video tutorial</p>
+      <p></p>
       <li><a href="http://www.Codeacademy.com">Code Academy</a></li>
       <li><a href="#">2</a></li>
       <li><a href="#">3</a></li>
