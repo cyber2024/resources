@@ -34,6 +34,7 @@
       <li><a href="http://buildwithreact.com/tutorial/">Build With React</a></li>
       <li><a href="https://egghead.io/courses/react-fundamentals">React Fundamentals</a></li>
       <li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">Clone Yelp</a></li>
+      <li><a href="https://egghead.io/courses/build-your-first-react-js-application">Build your first react-app</a></li>
     </ul>
   </div></li>
 </ul>
