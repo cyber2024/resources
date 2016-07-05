@@ -32,7 +32,7 @@
     <ul><h3>React</h3>
       <li><a href="https://facebook.github.io/react/docs/getting-started.html">Official Tutorial</a></li>
       <li><a href="http://buildwithreact.com/tutorial/">Build With React</a></li>
-      <li><a href="https://egghead.io/courses/react-fundamentals>React Fundamentals">Fundamentals</a></li>
+      <li><a href="https://egghead.io/courses/react-fundamentals">React Fundamentals</a></li>
       <li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">Clone Yelp</a></li>
     </ul>
   </div></li>
