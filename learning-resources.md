@@ -81,6 +81,11 @@
       <li><a href="#">Treehouse: how to make a website</a></li>
     </ul>
   </div></li>
+  <li><div>
+    <ul><h3>React</h3>
+      <li><a href="https://egghead.io/courses/build-your-first-react-js-application">React - First app and ES6 comparison</a></li>
+    </ul>
+  </div></li>
 </ul>
 <ul><h2>Back End</h2>
   <li><div>
