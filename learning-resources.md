@@ -35,6 +35,7 @@
       <li><a href="https://egghead.io/courses/react-fundamentals">React Fundamentals</a></li>
       <li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">Clone Yelp</a></li>
       <li><a href="https://egghead.io/courses/build-your-first-react-js-application">Build your first react-app</a></li>
+      <li><a href="http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html">A LARGE React-Redux tutorial</a></li>
     </ul>
   </div></li>
 </ul>
