@@ -69,6 +69,14 @@
   </div></li>
 </ul>
 
+<ul><h2>General</h2>
+  <li><div>
+    <ul><h3>Just handy Node stuff</h3>
+      <li><a href="https://github.com/substack/regex-adventure">Regex Adventure tutorial - do it from the CLI!</a></li>
+    </ul>
+  </div></li>
+</ul>
+
 <br>
 <h1>Paid</h1>
 <ul><h2>Front End</h2>
